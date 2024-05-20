@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying to become a FullStack Developer
 - 🌱 I’m currently learning Node.js, React, SQL, Flutter
-- 📫 How to reach me: jeremy.workplace@gmail.com
+- 📫 How to reach me: jeremy.paulepereira@gmail.com
 - 😄 Pronouns: He/His
 
 <div align="center">
@@ -24,5 +24,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/paule-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/JeremyCodding/JeremyCodding/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
