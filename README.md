@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying to become a FullStack Developer
-- 🌱 I’m currently learning Node.js, React, SQL, Flutter
+-  Node.js, React, Next, Nest, SQL, React Native, Redux, Express, Laravel, PHP
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: jeremy.paulepereira@gmail.com
 - 😄 Pronouns: He/His
 
