@@ -1,8 +1,8 @@
 # Hi there, I'm Jeremy 👋 
 
-### ⚡ FullStack Developer | AI Enthusiast | C++ Learner
+### ⚡ FullStack Developer | AI Enthusiast | Aspiring Game Dev
 
-I am a passionate developer focused on building scalable web and mobile applications. Currently, I am expanding my horizons by integrating **AI Agents** into my workflows and mastering low-level performance with **C++**.
+I am a passionate developer focused on building scalable web and mobile applications. Currently, I am expanding my horizons by integrating **AI Agents** into my workflows and diving into **Game Development** to master high-performance systems.
 
 ---
 
@@ -11,15 +11,15 @@ I am a passionate developer focused on building scalable web and mobile applicat
 **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI & Cloud Integration**
@@ -31,7 +31,7 @@ I am a passionate developer focused on building scalable web and mobile applicat
 
 ### 🔭 Current Focus
 - 🤖 **AI Agents:** Implementing autonomous agents for data processing and automation.
-- ⚙️ **C++:** Deep diving into memory management and systems programming.
+- 🎮 **Game Development:** Studying engine fundamentals and graphics using **C++**.
 - ☁️ **Google SDK:** Leveraging Google Cloud's ecosystem for scalable deployments.
 
 ### 📫 Connect with me
